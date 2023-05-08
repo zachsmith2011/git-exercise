@@ -1,3 +1,3 @@
 # git-exercise
 
-Hello, i am editing this document for the first time. 
+I am now deleting the previous comment
