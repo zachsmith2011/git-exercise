@@ -1,3 +1,3 @@
 # git-exercise
 
-I am now deleting the previous comment
+This is going to be my 3rd commit
